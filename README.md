@@ -7,10 +7,10 @@ We'll explore the core concept of Amazon Web Service (AWS), focusing specificall
 We'll navigate the AWS management console to deploy and manage these critical components effectively. 
 
 ## Project Goals: 
-- Setting up and configuring VPC, Subnets, internet gateway, NAT gateway, and VPC peering connections 
+- Setting up and configuring VPC, Subnets, internet gateway, NAT gateway
 - Enable internet connectivity securely within VPC 
 - Implement outbound internet access through the NAT gateway.
-- Establish direct communication between VPCs using VPC peering
+
 
 ## Step 1: Setting up a Virtual Private Cloud (VPC)
 
